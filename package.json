@@ -1,0 +1,12 @@
+{
+  "name": "ai-ml-training-template",
+  "version": "1.0.0",
+  "description": "A professional boilerplate for PyTorch-based ML projects",
+  "scripts": {
+    "train": "python src/train.py",
+    "preprocess": "python src/data_preprocessing.py",
+    "notebook": "jupyter notebook"
+  },
+  "author": "Architect",
+  "license": "MIT"
+}
